@@ -1,5 +1,5 @@
 
-use progressors::{Progresso, Style, ProgressoBar, ValueDisplay};
+use progresso::{Progresso, Style, ProgressoBar, ValueDisplay};
 use std::thread;
 
 fn main()
