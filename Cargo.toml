@@ -2,12 +2,11 @@
 name = "progresso"
 version = "0.5.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "A progress bar library for the terminal with styling."
+homepage = "https://github.com/srjilarious/progressors"
+repository = "https://github.com/srjilarious/progressors"
+readme = "ReadMe.md"
 
 [dependencies]
 crossterm = "0.25.0"
-
-# [[bin]]
-# name = "simple_example"
-# path = "examples/simple.rs"
